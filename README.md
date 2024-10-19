@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/rounak-harugire" target="blank"><img src="https://img.shields.io/twitter/follow/rounak-harugire?logo=twitter&style=for-the-badge" alt="rounak-harugire" /></a> </p>
 
-- 🌱 I’m currently learning :- **🧠💡 Computer Science & Artificial Intelligence 🎯💻**
+- 🌱 I’m currently learning :- 🧠💡 Computer Science & Artificial Intelligence 🎯💻
 
 - 👨‍💻 All of my projects are available at :- [https://github.com/Rounak-Harugire/My_Python_Projects..](https://github.com/Rounak-Harugire/My_Python_Projects..)
 
