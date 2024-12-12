@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning :- 🧠💡 Computer Science & Artificial Intelligence 🎯💻
 
 - 👨‍💻 All of my projects are available at :- [https://github.com/Rounak-Harugire/My_Python_Projects..](https://github.com/Rounak-Harugire/My_Python_Projects..)
-                                             [https://github.com/Rounak-Harugire/Attendence-Management-system] (https://github.com/Rounak-Harugire/Attendence-Management-system)
+                                             [https://github.com/Rounak-Harugire/Attendence-Management-system] 
 
 - 📫 How to reach me :- **rounakharugire3435@gmail.com**
 
